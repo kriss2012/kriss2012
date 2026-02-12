@@ -1,6 +1,6 @@
-# 🚀 Krishna Patil
+🚀 Krishna Patil
 
-### AI Engineer | Full Stack Developer | Computational Science Student
+AI Engineer | Full Stack Developer |
 
 📍 Pachora, Maharashtra, India  
 📧 202krishnapatil@gmail.com  
@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 I’m a results-driven **BCA student (Computational Science)** passionate about building scalable AI-powered systems and full-stack applications.
 
@@ -24,31 +24,31 @@ I focus on solving real-world problems using data-driven solutions and modern en
 
 ---
 
-## 🛠 Tech Stack
+🛠 Tech Stack
 
-### 👨‍💻 Programming
+👨‍💻 Programming
 `Python` | `Java` | `C++`
 
-### 🌐 Web & Backend
+🌐 Web & Backend
 `Django` | `Flask` | `React` | `Node.js` | `REST APIs`
 
-### 🤖 AI / ML
+🤖 AI / ML
 `TensorFlow` | `PyTorch` | `Scikit-learn` | `NLP` | `Computer Vision` | `Generative AI`
 
-### 🗄 Databases
+🗄 Databases
 `MySQL` | `PostgreSQL` | `MongoDB`
 
-### ☁️ Cloud & DevOps
+☁️ Cloud & DevOps
 `AWS` | `Azure` | `GCP` | `Docker` | `Kubernetes` | `Git` | `CI/CD`
 
-### ⚙️ Concepts
+⚙️ Concepts
 `MLOps` | `Agile/Scrum` | `Linux`
 
 ---
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
-### 🧠 Fake Reviews Identification System
+🧠 Fake Reviews Identification System
 
 - 🔹 ML-based fraud detection system  
 - 🔹 95% classification accuracy  
@@ -59,7 +59,7 @@ I focus on solving real-world problems using data-driven solutions and modern en
 
 ---
 
-### 🏥 AI Medical Consultancy System
+🏥 AI Medical Consultancy System
 
 - 🔹 Symptom-based disease prediction  
 - 🔹 Real-time response (<2 seconds)  
@@ -70,7 +70,7 @@ I focus on solving real-world problems using data-driven solutions and modern en
 
 ---
 
-### 🌍 BashaConverter
+🌍 BashaConverter
 
 - 🔹 Multilingual language translation system  
 - 🔹 NLP-based model  
@@ -80,7 +80,7 @@ I focus on solving real-world problems using data-driven solutions and modern en
 
 ---
 
-### 🤖 AI Desktop Assistant – Kirito 1.0
+🤖 AI Desktop Assistant – Kirito 1.0
 
 - 🔹 Voice-based AI assistant  
 - 🔹 Speech recognition + TTS  
@@ -91,14 +91,14 @@ I focus on solving real-world problems using data-driven solutions and modern en
 
 ---
 
-## 🏆 Achievements
+🏆 Achievements
 
 - 🥇 Shark Tank Winner – 1st Prize (2025)  
 - 🥈 Shark Tank Runner-up – 2nd Prize (2024)  
 
 ---
 
-## 🎓 Education
+🎓 Education
 
 **Bachelor of Computer Applications (BCA)**  
 G. H. Raisoni Institute of Engineering, Jalgaon  
@@ -106,7 +106,7 @@ Expected Graduation: 2026
 
 ---
 
-## 📈 What I’m Currently Working On
+📈 What I’m Currently Working On
 
 - Advanced MLOps pipelines  
 - Multi-model AI agent systems  
@@ -115,7 +115,7 @@ Expected Graduation: 2026
 
 ---
 
-## 💡 My Vision
+💡 My Vision
 
 To build intelligent systems that combine:
 
