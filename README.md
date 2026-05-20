@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://kiriorg.netlify.app/">
+  <a href="[https://kiriorg.netlify.app/](https://tgkrish-portfolio.netlify.app/)">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
