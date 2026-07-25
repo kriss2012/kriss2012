@@ -134,7 +134,13 @@ Multilingual AI language translation system.
 🚀 Built multiple AI-powered production-ready applications
 
 ---
+# 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kriss2012&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
 # 📊 Contribution Graph
 
 <p align="center">
