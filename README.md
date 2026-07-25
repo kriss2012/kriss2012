@@ -135,20 +135,6 @@ Multilingual AI language translation system.
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kriss2012&theme=tokyonight&show_icons=true&hide_border=true" height="170"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriss2012&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kriss2012&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 📊 Contribution Graph
 
 <p align="center">
