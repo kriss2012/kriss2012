@@ -155,7 +155,7 @@ Multilingual AI language translation system.
 📧 202krishnapatil@gmail.com  
 📱 +91 9850159631  
 
-🌐 Portfolio: https://kiriorg.netlify.app/
+🌐 Portfolio: https://www.kirigentech.in/
 
 ---
 
