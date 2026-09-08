@@ -24,11 +24,13 @@
 
 # 🚀 About Me
 
-🎓 BCA Student specializing in Computational Science  
-💡 Passionate about Artificial Intelligence, Machine Learning & Full Stack Development  
-⚡ Building scalable AI-powered applications and automation systems  
-🌍 Based in Maharashtra, India  
+🎓 BCA Student specializing in Computational Science
+💡 Passionate about Artificial Intelligence, Machine Learning & Full Stack Development
+⚡ Building scalable AI-powered applications and automation systems
+🌍 Based in Maharashtra, India
 🏆 Shark Tank Winner (2025) & Runner-Up (2024)
+🚀 Capgemini Hackathon Semifinalist
+
 
 ---
 
