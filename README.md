@@ -23,8 +23,13 @@
 ---
 # 🚀 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=%F0%9F%8E%93+BCA+Student+specializing+in+Computational+Science;%F0%9F%92%A1+Passionate+about+Artificial+Intelligence%2C+Machine+Learning+%26+Full+Stack+Development;%E2%9A%A1+Building+scalable+AI-powered+applications+and+automation+systems;%F0%9F%8C%8D+Based+in+Maharashtra%2C+India;%F0%9F%8F%86+Shark+Tank+Winner+(2025)+%26+Runner-Up+(2024);%F0%9F%9A%80+Capgemini+Hackathon+Semifinalist" alt="About Me" />
+<p>
+  🎓 BCA Student specializing in Computational Science<br>
+  💡 Passionate about Artificial Intelligence, Machine Learning & Full Stack Development<br>
+  ⚡ Building scalable AI-powered applications and automation systems<br>
+  🌍 Based in Maharashtra, India<br>
+  🏆 Shark Tank Winner (2025) & Runner-Up (2024)<br>
+  🚀 Capgemini Hackathon Semifinalist
 </p>
 
 
