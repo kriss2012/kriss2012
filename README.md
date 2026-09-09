@@ -148,9 +148,8 @@ Multilingual AI language translation system.
 # 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kriss2012&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kriss2012&theme=tokyo-night&hide_border=true" alt="Kriss2012 GitHub Activity Graph"/>
 </p>
-
 ---
 
 # 📫 Connect With Me
